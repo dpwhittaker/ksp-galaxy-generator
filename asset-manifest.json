@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ksp-galaxy-generator/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/ksp-galaxy-generator/static/js/main.e9623627.chunk.js",
+    "main.js.map": "/ksp-galaxy-generator/static/js/main.e9623627.chunk.js.map",
+    "runtime-main.js": "/ksp-galaxy-generator/static/js/runtime-main.103c2219.js",
+    "runtime-main.js.map": "/ksp-galaxy-generator/static/js/runtime-main.103c2219.js.map",
+    "static/js/2.66030278.chunk.js": "/ksp-galaxy-generator/static/js/2.66030278.chunk.js",
+    "static/js/2.66030278.chunk.js.map": "/ksp-galaxy-generator/static/js/2.66030278.chunk.js.map",
+    "static/js/3.350d333e.chunk.js": "/ksp-galaxy-generator/static/js/3.350d333e.chunk.js",
+    "static/js/3.350d333e.chunk.js.map": "/ksp-galaxy-generator/static/js/3.350d333e.chunk.js.map",
+    "index.html": "/ksp-galaxy-generator/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/ksp-galaxy-generator/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.66030278.chunk.js.LICENSE.txt": "/ksp-galaxy-generator/static/js/2.66030278.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ksp-galaxy-generator/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.103c2219.js",
+    "static/js/2.66030278.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.e9623627.chunk.js"
+  ]
+}
